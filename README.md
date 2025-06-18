@@ -48,27 +48,13 @@
 
 ### 💻 Languages and Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,tailwind" /> <br />
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,tailwind,java" /> <br />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,windows" />
 </p>
 
----
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanish007&theme=dark" alt="Streak Stats" />
-</p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tanish007&theme=2077" height="180" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Tanish007&theme=2077" height="180" />
-</p>
 
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanish007&theme=2077" height="200" />
-</p>
-
----
 
 > ⭐ *Keep grinding. Keep growing. Let's connect and build something amazing!*
 
