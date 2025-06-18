@@ -14,4 +14,4 @@
 🔭 I’m currently working on **Major Projects**  
 🌱 I’m currently learning **Full Stack Development**  
 💬 Ask me about **C++, DSA, Web Dev**  
-📫 How to reach me:](mailto:patidar29tanish@gmail.com)  
+📫 How to reach me:](patidar29tanish@gmail.com)  
