@@ -33,17 +33,15 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://www.codechef.com/users/tanish_7" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="40" width="40" />
+    <img src="https://cdn.codechef.com/images/cc-logo.svg" alt="CodeChef" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/TAnish_07/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="40" />
   </a>&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/TAnish_29" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Codeforces" height="40" width="40" />
+    <img src="https://codeforces.org/s/40964/images/codeforces-sponsored-by-ton.png" alt="Codeforces" height="40" width="40" />
   </a>&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/tanishpatidar" target="_blank">
-    <img src="https://media.geeksforgeeks.org/wp-content/uploads/20210405224706/gfg-new-logo.png" alt="GeeksforGeeks" height="40" width="40" />
-  </a>
+ 
 </p>
 
 ---
